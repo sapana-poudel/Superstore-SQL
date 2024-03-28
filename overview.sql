@@ -1,7 +1,5 @@
 /*
     Filename: overview.sql
-    Author: Jeff Gladstone
-    Date: 7/25/2017
     Description:
     This SQL file is an overview
 	of all the data tracked
